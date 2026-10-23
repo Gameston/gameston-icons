@@ -1,5 +1,24 @@
-@font-face{font-family:"Gameston Icons";src:url("gameston-icons.woff2") format("woff2");font-weight:400;font-style:normal;font-display:swap}
-.gs-icon{font-family:"Gameston Icons"!important;font-style:normal;font-weight:400;font-variant:normal;line-height:1;display:inline-block;speak:none;-webkit-font-smoothing:antialiased;}
+@font-face{
+  font-family:"Gameston Icons";
+  src:url("https://cdn.jsdelivr.net/gh/Gameston/gameston-icons@main/gameston-icons.woff2?v=1") format("woff2");
+  font-weight:400;
+  font-style:normal;
+  font-display:block;
+}
+
+.gs-icon{
+  font-family:"Gameston Icons"!important;
+  font-style:normal;
+  font-weight:400;
+  font-variant:normal;
+  line-height:1;
+  display:inline-block;
+  speak:none;
+  text-rendering:auto;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+
 .gs-bookmark::before{content:"\E900";}
 .gs-comment::before{content:"\E901";}
 .gs-search::before{content:"\E902";}
