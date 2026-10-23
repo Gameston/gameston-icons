@@ -1,0 +1,77 @@
+/*
+ * Gameston Icons v2
+ * Tabler-based custom icon font for Gameston.
+ * Font file: gameston-icons-tabler-v2.woff2
+ */
+
+@font-face {
+  font-family: "Gameston Icons";
+  src: url("https://cdn.jsdelivr.net/gh/Gameston/gameston-icons@main/gameston-icons-tabler-v2.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.gs-icon {
+  font-family: "Gameston Icons" !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-transform: none;
+  speak: never;
+  display: inline-block;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.gs-bookmark::before { content: "\EA3A"; }
+.gs-comment::before { content: "\EAEF"; }
+.gs-search::before { content: "\EB1C"; }
+.gs-menu::before { content: "\EC42"; }
+.gs-home::before { content: "\EAC1"; }
+.gs-share::before { content: "\EB21"; }
+.gs-calendar::before { content: "\EA53"; }
+.gs-clock::before { content: "\EA70"; }
+.gs-label::before { content: "\10096"; }
+.gs-arrow-down::before { content: "\EA16"; }
+.gs-arrow-up::before { content: "\EA25"; }
+.gs-close::before { content: "\EB55"; }
+.gs-copy::before { content: "\EA7A"; }
+.gs-download::before { content: "\EA96"; }
+.gs-edit::before { content: "\EA98"; }
+.gs-trash::before { content: "\EB41"; }
+.gs-info::before { content: "\EAC5"; }
+.gs-settings::before { content: "\EB20"; }
+.gs-moon::before { content: "\EAF8"; }
+.gs-sun::before { content: "\EB30"; }
+.gs-pc::before { content: "\EA89"; }
+.gs-playstation::before { content: "\F1D2"; }
+.gs-email::before { content: "\EAE5"; }
+.gs-maps::before { content: "\EAE9"; }
+.gs-list::before { content: "\EB6B"; }
+.gs-sort::before { content: "\EB26"; }
+.gs-star::before { content: "\EB2E"; }
+.gs-pin::before { content: "\EAE8"; }
+.gs-fire::before { content: "\EC2C"; }
+.gs-flash::before { content: "\EA38"; }
+.gs-warning::before { content: "\EA06"; }
+.gs-reply::before { content: "\EB77"; }
+.gs-checkmark::before { content: "\EA5E"; }
+.gs-new-window::before { content: "\EA99"; }
+.gs-x-circle::before { content: "\EA6A"; }
+.gs-page::before { content: "\EAA4"; }
+.gs-mastodon::before { content: "\F250"; }
+.gs-threads::before { content: "\FB02"; }
+.gs-dribbble::before { content: "\EC19"; }
+.gs-behance::before { content: "\EC6E"; }
+.gs-github::before { content: "\EC1C"; }
+.gs-whatsapp::before { content: "\EC74"; }
+.gs-linkedin::before { content: "\EC8C"; }
+.gs-telegram::before { content: "\EC26"; }
+.gs-pinterest::before { content: "\EC8D"; }
+.gs-tiktok::before { content: "\EC73"; }
+.gs-youtube::before { content: "\EC90"; }
+.gs-instagram::before { content: "\EC20"; }
+.gs-twitter::before { content: "\FC0F"; }
+.gs-facebook::before { content: "\EC1A"; }
