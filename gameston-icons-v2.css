@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: "Gameston Icons";
-  src: url("https://cdn.jsdelivr.net/gh/Gameston/gameston-icons@main/gameston-icons-tabler-v2.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/Gameston/gameston-icons@v0.1.1/gameston-icons-tabler-v2.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -75,3 +75,12 @@
 .gs-instagram::before { content: "\EC20"; }
 .gs-twitter::before { content: "\FC0F"; }
 .gs-facebook::before { content: "\EC1A"; }
+
+/* Gameston Icons v0.1.1 — category additions */
+.gs-playstation-brand::before { content: "\F300"; }
+.gs-xbox::before { content: "\F301"; }
+.gs-nintendo::before { content: "\F302"; }
+.gs-mobile::before { content: "\F303"; }
+.gs-anime::before { content: "\F304"; }
+.gs-pop-culture::before { content: "\F305"; }
+.gs-tips::before { content: "\F306"; }
