@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: "Gameston Icons";
-  src: url("https://cdn.jsdelivr.net/gh/Gameston/gameston-icons@v0.1.1/gameston-icons-tabler-v2.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/Gameston/gameston-icons@v0.1.2/gameston-icons-tabler-v2.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,7 +24,6 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 .gs-bookmark::before { content: "\EA3A"; }
 .gs-comment::before { content: "\EAEF"; }
 .gs-search::before { content: "\EB1C"; }
@@ -76,7 +75,7 @@
 .gs-twitter::before { content: "\FC0F"; }
 .gs-facebook::before { content: "\EC1A"; }
 
-/* Gameston Icons v0.1.1 — category additions */
+/* Gameston Icons v0.1.2 — browser-safe category additions */
 .gs-playstation-brand::before { content: "\F300"; }
 .gs-xbox::before { content: "\F301"; }
 .gs-nintendo::before { content: "\F302"; }

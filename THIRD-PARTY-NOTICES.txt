@@ -1,4 +1,4 @@
-Gameston Icons v0.1.1 incorporates icon artwork from the following MIT-licensed projects.
+Gameston Icons v0.1.2 incorporates icon artwork from the following MIT-licensed projects.
 
 Icon mapping:
 U+F300 gs-playstation-brand <- Ionicons logo-playstation
@@ -31,7 +31,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 
 ===== Ionicons =====
 The MIT License (MIT)
